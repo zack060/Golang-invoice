@@ -1,0 +1,27 @@
+{
+  "heading": "DWARVES FOUNDATION",
+  "invoice_from_email": "huy@dwarvesv.com",
+  "invoice_from_address": "1234 Main Street Anytown, State ZIP",
+  "bill_to": {
+    "name": "Mr. John",
+    "address": "4321 First Street Anytown, State ZIP",
+    "date": "12/28/17"
+  },
+  "project": "Project Name",
+  "invoice_number": 10,
+  "billing_items": [
+    {
+      "decription": "item 1",
+      "quantity": 10,
+      "unit_price": "$9",
+      "cost": "$90"
+    },
+    {
+      "decription": "item 2",
+      "quantity": 5,
+      "unit_price": "$10",
+      "cost": "$50"
+    }
+  ],
+  "signature": "Huy Giang"
+}
